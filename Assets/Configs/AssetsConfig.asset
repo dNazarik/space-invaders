@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c03246236fe0a40afcb29df1fdec29, type: 3}
   m_Name: AssetsConfig
   m_EditorClassIdentifier: 
-  MainMenuPrefab: {fileID: 2002264987603616209, guid: 902729c352999d14bbec272b22c465a0, type: 3}
+  MainMenuPrefab: {fileID: 2193584014712261324, guid: 6367493bedd64f342943946c022b58a5, type: 3}
+  GameControllerPrefab: {fileID: 7707012035375681718, guid: c0fcb4a3601c1d449874dbfcfe918c38, type: 3}
+  PlayerSpaceshipPrefab: {fileID: 8865195649561852933, guid: d0d153f25d5055e4bbef37124c2237fa, type: 3}
+  BulletPrefab: {fileID: 4782125978210487074, guid: d9ba2e209eef443419e77a0dcc2e8d69, type: 3}
