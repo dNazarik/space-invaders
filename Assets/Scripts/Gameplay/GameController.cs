@@ -35,7 +35,7 @@ namespace Gameplay
 		{
 			_gameStateController.SetState(GameState.FreezeTime);
 
-			var startDelay = 1;
+			var startDelay = 3;
 
 			_countdownTimer.text = startDelay.ToString();
 
