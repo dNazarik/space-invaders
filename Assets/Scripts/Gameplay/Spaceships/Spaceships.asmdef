@@ -1,0 +1,18 @@
+{
+    "name": "Spaceships",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ed406d1434067c4e9db70a5a4464e19",
+        "GUID:66a92023d8f149948bd1c5dd0b0e0183",
+        "GUID:73490ddae9f467e4994cb6a8d2c7374e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
